@@ -1,16 +1,8 @@
-# Assignment10
+# React + Vite
 
-# Assignment Readme Guidelines
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Overview
+Currently, two official plugins are available:
 
-- Your name 
-- Mikkel Gold
-- which assignment are included
-- Deployment Part 1, and some of React Week III
-- which one are completed and which one are not
-- Deployment Part 1 is done, but only a little of React Week III, like login and header
-
-## Friday presentation
-- add the friday presentation into the weekly folder
-- My presentation was: 1, Define React Router and its Purpose
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
